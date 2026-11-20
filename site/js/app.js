@@ -1,5 +1,6 @@
 // Construit la page à partir de config.js et data.js.
 // Les noms sont insérés avec textContent et jamais avec innerHTML.
+// je fais ce que je  veux car je suis en commentaire
 
 (function () {
   "use strict";
