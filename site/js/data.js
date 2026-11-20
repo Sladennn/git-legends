@@ -1,4 +1,5 @@
 window.GAME_DATA = {
+//{ title: "Gardien du Firewall", power: "Bloque tout. Même ce qu'il ne fallait pas." }
 
   // rôles des membres
   roles: [
